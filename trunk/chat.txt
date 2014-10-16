@@ -1,3 +1,5 @@
 hola amor cuando le des commit me tocas me avisass
 
 - tranquimi vida todo va a salir muy bien Dios nos esta ayudandno
+
+SELECT COUNT(NURE) FROM recibos // selecciona cuantaas lineas hay en la tabla
